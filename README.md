@@ -1,11 +1,6 @@
-# 🚀  AMAZON ML CHALLENGE PROJECT 
-
-
 **GPU-Optimized Ensemble Training (n-Fold Each): LightGBM + XGBoost + CatBoost**
 
 ## 🏆 **Project Overview**
-
-This solution was developed for the **Amazon ML Challenge 2025 – Product Pricing Task**.  
 We implemented a **multi-modal ensemble pipeline** combining textual and visual data using **OpenAI’s CLIP model** with GPU-accelerated gradient boosting regressors (**LightGBM, XGBoost, CatBoost**).
 
 Our approach integrates **image**, **text**, and **engineered features** to predict product prices with high robustness and accuracy.
