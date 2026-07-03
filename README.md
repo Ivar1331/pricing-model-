@@ -180,17 +180,7 @@ python code.py
 
 ---
 
-## 👨‍💻 **Team Members**
-
-| Name         |
-|--------------|
-| **Shivam Sharma**   | 
-| **Mayank Raj**   | 
-| **Shail Kashyap**     |
-| **Anshuman Prakash**   |
-
 **Acknowledgments:**
-
 - **Hugging Face team** for CLIP model
 - **Amazon ML Challenge organizers** for dataset and framework
 - **Open-source contributors** to PyTorch, LightGBM, XGBoost, and CatBoost
